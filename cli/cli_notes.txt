@@ -1,0 +1,24 @@
+mkdir	-> make a new directory
+cd	-> change directory
+pwd	-> print working directory
+whoami	-> determine which user you are
+mv 	-> move (or rename)
+cd	-> copy a file
+ls	-> list contents of directory
+rm	-> remove (items)
+chmod	-> change file or directory permissions
+touch	-> create file (but not open)
+cat	-> print contents of a file
+head	-> print first five lines
+tail	-> print last five lines
+su/sudo	-> become super user
+man	-> open manual for command
+vim	-> open and create new file
+~	-> home directory
+-	-> previous directory
+/	-> root directory
+tab	-> autocomplete
+tab tab -> show contents of the next directory
+|	-> pipe - output first command is input of second command
+grep	-> search text functionality
+
